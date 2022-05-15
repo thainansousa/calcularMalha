@@ -18,7 +18,6 @@ if (linhas == colunas) {
     var n = aN
     var r = n
 
-    console.log("------------------------------------------")
     console.log(" ")
     console.log("Minha quantidade de posições é: " + aN)
     console.log("------------------------------------------")
@@ -26,7 +25,7 @@ if (linhas == colunas) {
     console.log("O termo da primeira posição é: " + a1)
     console.log("------------------------------------------")
     console.log(" ")
-    console.log("Minha quantidade de termos é: " + n * n)
+    console.log("Minha quantidade de termos (nos) é: " + n * n)
     console.log("------------------------------------------")
     console.log(" ")
     console.log("Minha razão é: " + r)
@@ -37,7 +36,6 @@ if (linhas == colunas) {
     var n = aN
     var r = colunas + 1
 
-    console.log("------------------------------------------")
     console.log(" ")
     console.log("Minha quantidade de posições é: " + aN)
     console.log("------------------------------------------")
@@ -45,7 +43,7 @@ if (linhas == colunas) {
     console.log("O termo da primeira posição é: " + a1)
     console.log("------------------------------------------")
     console.log(" ")
-    console.log("Minha quantidade de termos é: " + n * (colunas + 1))
+    console.log("Minha quantidade de termos (nos) é: " + n * (colunas + 1))
     console.log("------------------------------------------")
     console.log(" ")
     console.log("Minha razão é: " + r)
